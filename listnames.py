@@ -1,5 +1,5 @@
 
-southheros=['Naga Arjun','Chiranjiv','Mahesh Babu','Junior NTR','Ram Charan','Allu Arjun','Naga Chaitanya','Gopi Chand','Pavan Kalyan','Yash','Ravi Teja','Ram Pothenin']
+southheros=['Rajini','Naga Arjun','Chiranjiv','Mahesh Babu','Junior NTR','Ram Charan','Allu Arjun','Naga Chaitanya','Gopi Chand','Pavan Kalyan','Yash','Ravi Teja','Ram Pothenin']
 n=input('Enter the name of your favorite south hero :')
 if n in southheros:
     print('It was there in the list')
